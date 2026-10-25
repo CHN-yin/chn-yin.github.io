@@ -5,14 +5,9 @@ import gsap from "gsap";
 import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
 import { MENULINKS, SKILLS } from "../../constants";
 
-// Map skill names to their icon files (some are PNG, rest are SVG)
+// 图标文件名一律小写（Linux 服务器严格区分大小写）；仅文件名与技能名不同的走映射
 const SKILL_ICON_MAP = {
   'ai': '/skills/ai-bot.svg',
-  'echarts': '/skills/ECharts.svg',
-  'gsap': '/skills/GSAP.svg',
-  'redis': '/skills/Redis.svg',
-  'shopify': '/skills/shopify.svg',
-  'wordpress': '/skills/wordpress.svg',
 };
 
 const getSkillIcon = (skill) => SKILL_ICON_MAP[skill] || `/skills/${skill}.svg`;
