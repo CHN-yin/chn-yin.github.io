@@ -1,0 +1,24 @@
+{
+  "name": "尹晟鸿 | 全栈开发工程师 · 个人在线简历",
+  "short_name": "尹晟鸿",
+  "description": "尹晟鸿（全栈开发工程师）的个人在线简历：出海独立站、运营数据中台、EDM 与 AI Agent。",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#1a5fa8",
+  "background_color": "#000000",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}

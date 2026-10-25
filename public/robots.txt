@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chn-yin.github.io/sitemap.xml

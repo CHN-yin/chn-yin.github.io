@@ -1,0 +1,14 @@
+<svg viewBox="0 0 24 24" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="aiTechGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8A2BE2"/>
+      <stop offset="100%" stop-color="#00D2FF"/>
+    </linearGradient>
+  </defs>
+  <rect x="3" y="3" width="18" height="18" rx="4" fill="url(#aiTechGrad)"/>
+  <path d="M7 16l2.5-7h1L13 16h-1.3l-.6-1.8H9l-.6 1.8H7zm2.4-2.8h1.8L10.3 11l-.9 2.2zm6.6 2.8V9h1.5v7H16z" fill="#ffffff" font-weight="bold"/>
+  <circle cx="12" cy="2" r="1" fill="#00D2FF"/>
+  <circle cx="12" cy="22" r="1" fill="#8A2BE2"/>
+  <circle cx="2" cy="12" r="1" fill="#8A2BE2"/>
+  <circle cx="22" cy="12" r="1" fill="#00D2FF"/>
+</svg>
